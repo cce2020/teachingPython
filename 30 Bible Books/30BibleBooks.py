@@ -9,16 +9,24 @@ books = ["genesis", "exodus", "leviticus", "numbers", "deuteronomy", "joshua", "
 contains = []
 
 def main():
-    text = open("text.txt", "r")    # Read only mode
-    contents = text.read()
+    # Initialization of text
+    text = open("text.txt", "r")    # Creates a file object (text) that the program can read ("r")
+    contents = text.read()          # Saves all text on the file as a single string (contents)
+
+    # Removes any puncuation, line breaks, and spaces
     contents = contents.replace(' ', '')
     contents = contents.replace('\n', '')
-    contents = contents.replace('.','')
-    contents = contents.replace(',','')
-    contents = contents.replace('?','')
-    contents = contents.replace('\'','')
-    contents = contents.replace('\"','')
+    contents = contents.replace('.', '')
+    contents = contents.replace(',', '')
+    contents = contents.replace('?', '')
+    contents = contents.replace('\'', '')
+    contents = contents.replace('\"', '')
+
+    # Makes all of the letters lowercase since lowercase letters
+    # are different from uppercase letters which will cause missed results
     contents = contents.lower()
+
+    # Actual searching of the text
     for title in books:
         if title in contents:
             contains.append(title.capitalize())
