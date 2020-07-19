@@ -18,7 +18,7 @@
 v1 = "God is good."
 v2 = "All the time."
 print("\nIntially, we have the phrase:\n", v1, v2)
-print("We will know swap the variables.")
+print("We will now swap the variables.")
 
 # We want you to swap variables v1 and v2 such that the text
 #   prints the following:
