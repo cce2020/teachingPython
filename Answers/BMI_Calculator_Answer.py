@@ -18,9 +18,9 @@
 # Body Mass Index (BMI) is a measure that uses person's mass and height to work out if one's weight is healthy.
 # Make a BMI calculator using an if-else statement to measure if one's overweight or not.
 # Hints
-# 1. unit for BMI is kg/m^2
+# 1. Unit for BMI is kg/m^2
 # 2. BMI calculation divides an adult's weight by their height squared
-# 3. usually BMI less than 25 is not overweight and the other is overweight
+# 3. Usually BMI less than 25 is not overweight and the other is overweight
 
 # Answer
 name = "Joon"
