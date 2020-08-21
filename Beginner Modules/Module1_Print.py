@@ -32,7 +32,7 @@ print("")
 
 # Congrats! You just wrote your first line of code!
 # Next is "\n". When put inside the double quotations of a print statement,
-# this will put the cursor on the Next line (hence the "n"). In essence, this
+# this will put the cursor on a New line (hence the "n"). In essence, this
 # is the functionally the same as the "enter" key.
 # Now, uncomment this line and put in a "\n" so that the two sentences are two lines.
 
