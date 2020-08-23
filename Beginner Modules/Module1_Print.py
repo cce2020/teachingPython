@@ -13,8 +13,8 @@ Hello CCE Member!
     President of CCE 2020
 '''
 
-# Hashtags are used to comment in your coding
-# It is important to comment to clarify your coding and what you did
+# Hashtags are used to comment in your coding.
+# It is important to comment to clarify your coding and what you did.
 
 """ Multiline Comments
 You can also use three single (') or double (") quotation marks to
@@ -25,8 +25,8 @@ However, the industry standard rarely uses this unless the number of lines
 exceeds ~10 (not a set number but just my estimate).
 """
 
-# The print() function will make the computer write/print out whatever is within the parentheses
-# Write "Hello, World!" inside the parentheses and run the program
+# The print() function will make the computer write/print out whatever is within the parentheses.
+# Write "Hello, World!" inside the parentheses and run the program.
 
 print("")
 

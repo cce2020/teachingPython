@@ -1,5 +1,4 @@
 # Teaching Python
-[![Run on Repl.it](https://repl.it/badge/github/cce2020/teachingPython)](https://repl.it/github/cce2020/teachingPython)
 
 Weekly modules for CCE members to learn Python 3. Check out [this website](https://www.w3schools.com/python/python_intro.asp) to learn about what Python 3 is and what it is used for.
 
@@ -7,8 +6,8 @@ This tutorial will help you learn basic coding techniques. For those of you who 
 
 Each Level will contain a number of modules that will each teach you a specific topic. There will also be some projects for you to apply what you have learned in the modules.
 
-## Levels
 ---
+## Levels
 ### Beginner
 ##### Modules
 1. Print
